@@ -9,7 +9,7 @@ This repository contains my solutions to problems from the Data Structures and A
 ### How to build from command line
 
 ```shell
-  g++ Assignment#'?'/'Name'.cpp -o 'Name'
+  g++ Assignment#1#'?'/'Name'.cpp -o 'Name'
 ```
 
 ```shell
@@ -19,13 +19,13 @@ This repository contains my solutions to problems from the Data Structures and A
 
 ## Assignments
 
-| Assignment | Problem                                                                                                   | Solution                                                                  |
-|------------|-----------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
-| Assignment 1 | [BSPRIME](https://www.spoj.com/problems/BSPRIME/)                                                         | [BSPRIME.cpp](Assignment#1/BSPRIME.cpp)                                   |
-| Assignment 1 | [Task the bridge](https://szkopul.edu.pl/problemset/problem/QOI_596ZIIk4CbamVRXVvbAI/site/?key=statement) | [Task_The_Bridge.cpp](Assignment#1/QOI_596ZIIk4CbamVRXVvbAI.cpp) |
-|  |                                                                                                           |                                                                           |
-| Assignment 2 | [OHANIBTR](https://www.spoj.com/problems/OHANIBTR/)                                                       | [OHANIBTR.cpp](Assignment#2/OHANIBTR.cpp)                                 |
-| Assignment 2 | [NDS](https://www.spoj.com/problems/NDS/)                                                                 | [NDS.cpp](Assignment#2/NDS.cpp)                                           |
-|  |                                                                                                           |                                                                           |
-| Assignment 3 | [Jwfw harie edu](https://codeforces.com/gym/103860/problem/J)                                             | [Jwfw_Harie_Edu.cpp](Assignment#3/Jwfw_Harie_Edu.cpp)                     |
-| Assignment 3 | [Selection sort count](https://codeforces.com/gym/103860/problem/C)                                       | [Selection_Sort_Count.cpp](Assignment#3/Selection_Sort_Count.cpp)         |
+| Assignment | Problem                                                                                                   | Solution                                                            |
+|------------|-----------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|
+| Assignment 1 | [BSPRIME](https://www.spoj.com/problems/BSPRIME/)                                                         | [BSPRIME.cpp](Assignment%231/BSPRIME.cpp)                           |
+| Assignment 1 | [Task the bridge](https://szkopul.edu.pl/problemset/problem/QOI_596ZIIk4CbamVRXVvbAI/site/?key=statement) | [Task_The_Bridge.cpp](Assignment%231/QOI_596ZIIk4CbamVRXVvbAI.cpp) |
+|  |                                                                                                           |                                                                     |
+| Assignment 2 | [OHANIBTR](https://www.spoj.com/problems/OHANIBTR/)                                                       | [OHANIBTR.cpp](Assignment%232/OHANIBTR.cpp)                           |
+| Assignment 2 | [NDS](https://www.spoj.com/problems/NDS/)                                                                 | [NDS.cpp](Assignment%232/NDS.cpp)                                      |
+|  |                                                                                                           |                                                                     |
+| Assignment 3 | [Jwfw harie edu](https://codeforces.com/gym/103860/problem/J)                                             | [Jwfw_Harie_Edu.cpp](Assignment%233/Jwfw_Harie_Edu.cpp)             |
+| Assignment 3 | [Selection sort count](https://codeforces.com/gym/103860/problem/C)                                       | [Selection_Sort_Count.cpp](Assignment%233/Selection_Sort_Count.cpp) |
